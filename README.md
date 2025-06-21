@@ -1,5 +1,5 @@
 ![logo](https://github.com/krishnamodhavadiya/krishnamodhavadiya/blob/main/Software%20engineer.gif)
-<h1 align="center">Hi 👋, I'm Krishna Modhavadiya</h1>
+<h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnamodhavadiya&label=Profile%20views&color=0e75b6&style=flat" alt="krishnamodhavadiya" /> </p>
