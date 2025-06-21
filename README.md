@@ -1,4 +1,4 @@
-![logo](https://github.com/krishnamodhavadiya/krishnamodhavadiya/blob/main/Software%20Developer.gif)
+![logo](https://github.com/krishnamodhavadiya/krishnamodhavadiya/blob/main/Software%20Developer%20(2).gif)
 <h1 align="center">Hi 👋, I'm Krishna Modhavadiya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
